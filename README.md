@@ -1,4 +1,7 @@
-### Stay a while and listen ###
+# Stay a while and listen ###
 
-# pip install moderngl pyglet Pillow
-# run
+## Requirements:
+### pip install moderngl pyglet Pillow
+
+## How to use:
+### just sit, run, and ponder
